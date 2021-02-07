@@ -1,1 +1,2 @@
 # mankala
+pip install pygame
